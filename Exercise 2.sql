@@ -1,0 +1,1 @@
+SELECT d.DelegateID, Sum(DurationDays) AS DelegateDays, Count(*)
